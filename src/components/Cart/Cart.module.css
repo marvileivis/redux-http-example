@@ -1,0 +1,18 @@
+.cart {
+  max-width: 30rem;
+  background-color: #4b0606;
+  color: white;
+}
+
+.cart h2 {
+  font-size: 1.25rem;
+  margin: 0.5rem 0;
+}
+
+.cart ul {
+  list-style: none;
+  padding: 3px;
+  margin: 2px;
+  border:solid white;
+  
+}
